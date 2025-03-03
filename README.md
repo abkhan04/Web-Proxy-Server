@@ -9,7 +9,7 @@ Ensure you have the following installed on your machine:
 - [Python](https://www.python.org/)
 
 ## Cloning the Repository
-To get started, clone the project from GitLab:
+To get started, clone the project from GitHub:
 
 ```sh
 # Clone the repository
@@ -21,16 +21,18 @@ git clone https://github.com/abkhan04/Web-Proxy-Server.git
 ### Install Dependencies
 
 ```sh
+# Install Tkinter
 pip install tk
 ```
 
 ### Run the Server
 
 ```sh
+# Run main.py
 python main.py
 ```
 
-### Configurtion
+### Configuration
 
 Set Up a Proxy in Windows Settings
 
